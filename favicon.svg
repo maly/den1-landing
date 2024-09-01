@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Pozadí zápisníku -->
+  <rect x="5" y="5" width="90" height="90" fill="#f4e3c5" stroke="#8b4513" stroke-width="2"/>
+  
+  <!-- Spirála zápisníku -->
+  <path d="M10,15 Q15,15 15,20 T10,25 T15,30 T10,35 T15,40 T10,45 T15,50 T10,55 T15,60 T10,65 T15,70 T10,75 T15,80 T10,85" fill="none" stroke="#6d4c41" stroke-width="3"/>
+  
+  <!-- Linky v zápisníku -->
+  <line x1="20" y1="20" x2="90" y2="20" stroke="#b0bec5" stroke-width="1"/>
+  <line x1="20" y1="30" x2="90" y2="30" stroke="#b0bec5" stroke-width="1"/>
+  <line x1="20" y1="40" x2="90" y2="40" stroke="#b0bec5" stroke-width="1"/>
+  <line x1="20" y1="50" x2="90" y2="50" stroke="#b0bec5" stroke-width="1"/>
+  <line x1="20" y1="60" x2="90" y2="60" stroke="#b0bec5" stroke-width="1"/>
+  <line x1="20" y1="70" x2="90" y2="70" stroke="#b0bec5" stroke-width="1"/>
+  <line x1="20" y1="80" x2="90" y2="80" stroke="#b0bec5" stroke-width="1"/>
+  
+  <!-- Text reprezentující zápisky -->
+  <path d="M25,25 Q30,23 35,25 T45,25 T55,25 T65,25" fill="none" stroke="#3e2723" stroke-width="2"/>
+  <path d="M25,35 Q30,33 35,35 T45,35 T55,35" fill="none" stroke="#3e2723" stroke-width="2"/>
+  <path d="M25,45 Q30,43 35,45 T45,45 T55,45 T65,45 T75,45" fill="none" stroke="#3e2723" stroke-width="2"/>
+  <path d="M25,55 Q30,53 35,55 T45,55 T55,55 T65,55" fill="none" stroke="#3e2723" stroke-width="2"/>
+  
+  <!-- Tužka -->
+  <polygon points="75,65 85,75 82,78 72,68" fill="#ffd54f"/>
+  <polygon points="72,68 82,78 80,80 70,70" fill="#ff7043"/>
+  <polygon points="70,70 80,80 79,81 69,71" fill="#3e2723"/>
+</svg>
